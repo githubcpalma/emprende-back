@@ -1,0 +1,11 @@
+{
+  "name": "emprende-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cesar Palma",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
